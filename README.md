@@ -17,7 +17,7 @@ Requirements are:
 
 In case you don't have pipenv:
 ```
-pip install pipenv
+$ pip install pipenv
 ```
 
 Please follow these instructions:
