@@ -29,7 +29,7 @@ def main():
         A = matrix(int(number))
         weights = vector(A)
         for i in range(len(weights)):
-            print(f'Критерий {i} = {np.round(weights[i], 2)}')
+            print(f'Criterion {i} = {np.round(weights[i], 2)}')
     else:
         print("Something went wrong. Let's try again \n")
         main()
