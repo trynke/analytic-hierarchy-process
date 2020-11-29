@@ -21,7 +21,7 @@ $ pip install pipenv
 ```
 
 Please follow these instructions:
-```
+```bash
 # clone the repository
 $ git clone https://github.com/trynke/analytic-hierarchy-process.git
 # activate the virtual environment
